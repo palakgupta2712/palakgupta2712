@@ -8,7 +8,7 @@
 
 - 🍂 I’m currently learning about **Web 3.0 and PWAs**
 
-- ✨ All about me is available at [http://palakgupta2712.github.io/](http://palakgupta2712.github.io/)
+- ✨ Have a look at my [Portfolio](http://palakgupta2712.github.io/) for more details. 
 
 - ☕ Love to talk about **Art, Design, Colors and Food**
 
@@ -18,7 +18,9 @@
 
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
+- Goals
+    - Try to complete [CS50](https://cs50.harvard.edu/x/2021/) course by Harvard - My progress: https://github.com/palakgupta2712/CS50
+    - Start #100dayschallenge for [UI Designs](https://www.dailyui.co/) or [Frontend Designs](https://www.uidesigndaily.com/).
 
 ### Some of my best work 
 
