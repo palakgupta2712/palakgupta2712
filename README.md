@@ -20,7 +20,7 @@
 
 
 
-### Few of my best work 
+### Some of my best work 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=palakgupta2712&repo=lms-app-amplify&theme=radical)](https://github.com/palakgupta2712/lms-app-amplify)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=palakgupta2712&repo=code-snippets&theme=radical)](https://github.com/palakgupta2712/code-snippets)
